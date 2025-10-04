@@ -1,13 +1,18 @@
 {
   "name": "backend-course-2025-3",
   "version": "1.0.0",
-  "description": "Лабораторна робота 3 - Варіант 4",
+  "description": "пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ 3 - пїЅпїЅпїЅпїЅпїЅпїЅ 4",
   "main": "main.js",
   "scripts": {
     "start": "node main.js"
   },
-  "keywords": ["iris", "dataset", "json", "node.js"],
-  "author": "Едуард bc2025-3",
+  "keywords": [
+    "iris",
+    "dataset",
+    "json",
+    "node.js"
+  ],
+  "author": "пїЅпїЅпїЅпїЅпїЅпїЅ bc2025-3",
   "license": "ISC",
   "dependencies": {
     "commander": "^11.1.0"
